@@ -1,6 +1,6 @@
 # Data Scientist
 
-## 👩‍💻 About me
+## About me
 
 👩‍💻 ¡Hola, soy Betiana López Andueza!
 
