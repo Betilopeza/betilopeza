@@ -23,7 +23,7 @@
 
 ## Reach me
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/betiana-lopez-andueza) for more details about my journey and projects! I'm always open to collaborate and learn from others in the world of data science.
+📫 Connect with me on [www.linkedin.com/in/betiana-lopez-andueza](www.linkedin.com/in/betiana-lopez-andueza) for more details about my journey and projects! I'm always open to collaborate and learn from others in the world of data science.
 
 
 
