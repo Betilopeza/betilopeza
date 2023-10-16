@@ -2,25 +2,28 @@
 
 ## About me
 
-👩‍💻 ¡Hola, soy Betiana López Andueza!
+👩‍💻 Hello, I'm Betiana López Andueza!
 
-🧪 Ingeniera Química convertida en Data Scientist 📊
+🧪 Chemical Engineer turned Data Scientist 📊
 
-💼 Mi experiencia abarca una amplia gama de campos, desde el análisis de datos hasta la ingeniería de datos.
+💼 My experience spans a wide range of fields, from data analysis to data engineering.
 
-📈 Como Data Analyst, descifrando historias en los datos, utilizando mis habilidades en SQL, Python y estadísticas.
+📈 As a Data Analyst, I unravel stories within data, utilizing my skills in SQL, Python, and statistics.
 
-🛠️ Como Data Engineer, diseño procesos ETL (Extraction, Transformation, and Loading) eficientes y escalables, trabajando con herramientas como Hadoop, Spark y Docker.
+🛠️ As a Data Engineer, I design efficient and scalable ETL (Extraction, Transformation, and Loading) processes, working with tools like Hadoop, Spark, and Docker.
 
-🧠 Mi pasión es el Machine Learning, donde aplico mi conocimiento para construir modelos predictivos y soluciones basadas en datos.
+🧠 My passion lies in Machine Learning, where I apply my knowledge to build predictive models and data-driven solutions.
 
-📊 También me entusiasma la visualización de datos y Power BI es una de mis herramientas favoritas para comunicar insights de manera efectiva.
+📊 I'm also enthusiastic about data visualization, and Power BI is one of my favorite tools for effectively communicating insights.
 
-🌐 ¡Bienvenido a mi rincón digital! Explora mis proyectos en Python, Data Science, Big Data, y más.
+🌐 Welcome to my digital corner! Explore my projects in Python, Data Science, Big Data, and more.
+
 
 <br>
 
-📫 ¡Conéctate conmigo en [LinkedIn](www.linkedin.com/in/betiana-lopez-andueza) para obtener más detalles sobre mi trayectoria y proyectos! Estoy siempre dispuesta a colaborar y aprender de otros en el mundo de la ciencia de datos.
+## Reach me
+
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/betiana-lopez-andueza) for more details about my journey and projects! I'm always open to collaborate and learn from others in the world of data science.
 
 
 
