@@ -4,19 +4,17 @@
 
 👩‍💻 Hello, I'm Betiana López Andueza!
 
-🧪 Chemical Engineer turned Data Scientist 📊
+📊 Data Analyst with a background in Chemical Engineering, specializing in data transformation, visualization, and reporting.
 
-💼 My experience spans a wide range of fields, from data analysis to data engineering.
+🔍 I turn raw data into actionable insights, leveraging my expertise in SQL, dbt, Metabase, BigQuery, Excel, and Power BI.
 
-📈 As a Data Analyst, I unravel stories within data, utilizing my skills in SQL, Python, and statistics.
+💡 My work focuses on designing efficient data models, automating transformations with dbt, and building interactive dashboards in Metabase and Power BI to help stakeholders make data-driven decisions.
 
-🛠️ As a Data Engineer, I design efficient and scalable ETL (Extraction, Transformation, and Loading) processes, working with tools like Hadoop, Spark, and Docker.
+📈 I have advanced skills in Excel for handling and visualizing complex datasets, and I use Power BI and Metabase to create impactful reports.
 
-🧠 My passion lies in Machine Learning, where I apply my knowledge to build predictive models and data-driven solutions.
+🧪 My analytical and problem-solving mindset comes from my background as a Chemical Engineer, which helps me approach data challenges with precision and structured thinking.
 
-📊 I'm also enthusiastic about data visualization, and Power BI is one of my favorite tools for effectively communicating insights.
-
-🌐 Welcome to my digital corner! Explore my projects in Python, Data Science, Big Data, and more.
+🌐 Welcome to my digital space! Here, you’ll find projects related to data engineering, analytics, and visualization.
 
 
 <br>
